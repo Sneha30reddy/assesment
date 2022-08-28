@@ -1,1 +1,1 @@
-console.log("this is home.js file")
+console.log("this is fixed code")

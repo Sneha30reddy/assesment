@@ -1,0 +1,1 @@
+console.log("this is  fixed nav.js file")
